@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Internship</string>
+    <string name="firebase">The following button takes you to a screen that takes inputs from user and displays it in a Recycler View, the inputs are uploaded and retrieved from Firebase Cloud Storage</string>
+    <string name="sharedpref">The following button takes you to a screen that takes inputs from user and displays it in a Recycler View, the inputs are uploaded and retrieved from SharedPreferences</string>
+</resources>
